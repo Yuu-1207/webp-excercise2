@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+}
+
+p {
+    text-indent: 1rem;
+    margin-left: 1rem;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+h4 {
+    text-indent: 1rem;
+}
+
+.pink-marker {
+    display: inline-block;
+    background: linear-gradient(transparent 50%, #ff9ff5c2 50%);
+}
+
+.yellow-marker {
+    display: inline-block;
+    background: linear-gradient(transparent 50%, #f5fe80c2 50%);
+}
